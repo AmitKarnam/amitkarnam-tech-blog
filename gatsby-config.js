@@ -11,7 +11,7 @@ module.exports = {
     siteTitleAlt: `Amit Karnam Blog - Gatsby Theme`,
     siteHeadline: `Amit Karnam Blog - Cloud , System design and tech!`,
     siteUrl: `https://minimal-blog.lekoarts.de`,
-    siteDescription: `One stop destination to share my learning on cloud , system design and much more intresting stuff`,
+    siteDescription: `One stop destination to share my learning on cloud , system design and much more intresting stuff in tech.`,
     siteLanguage: `en`,
     siteImage: `/banner.jpg`,
     author: `@AmitKarnam`,
@@ -58,9 +58,9 @@ module.exports = {
     {
       resolve: `gatsby-plugin-manifest`,
       options: {
-        name: `minimal-blog - @lekoarts/gatsby-theme-minimal-blog`,
-        short_name: `minimal-blog`,
-        description: `Typography driven, feature-rich blogging theme with minimal aesthetics. Includes tags/categories support and extensive features for code blocks such as live preview, line numbers, and code highlighting.`,
+        name: `Amit Karnam Blog - @lekoarts/gatsby-theme-minimal-blog`,
+        short_name: `Amit Karnam Blog`,
+        description:  `One stop destination to share my learning on cloud , system design and much more intresting stuff in tech.`,
         start_url: `/`,
         background_color: `#fff`,
         // This will impact how browsers show your PWA/website
@@ -125,7 +125,7 @@ module.exports = {
               }
             `,
             output: `rss.xml`,
-            title: `Minimal Blog - @lekoarts/gatsby-theme-minimal-blog`,
+            title: `Amit Karnam Blog - @lekoarts/gatsby-theme-minimal-blog`,
           },
         ],
       },
