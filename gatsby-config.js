@@ -36,10 +36,6 @@ module.exports = {
             name: `Twitter`,
             url: `https://twitter.com/amit02`,
           },
-          {
-            name: `Homepage`,
-            url: `https://www.lekoarts.de?utm_source=minimal-blog&utm_medium=Starter`,
-          },
         ],
       },
     },
