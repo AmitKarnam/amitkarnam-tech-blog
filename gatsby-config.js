@@ -58,7 +58,7 @@ module.exports = {
     {
       resolve: `gatsby-plugin-manifest`,
       options: {
-        name: `Amit Karnam Blog - @lekoarts/gatsby-theme-minimal-blog`,
+        name: `Amit Karnam Blog`,
         short_name: `Amit Karnam Blog`,
         description:  `One stop destination to share my learning on cloud , system design and much more intresting stuff in tech.`,
         start_url: `/`,
@@ -125,7 +125,7 @@ module.exports = {
               }
             `,
             output: `rss.xml`,
-            title: `Amit Karnam Blog - @lekoarts/gatsby-theme-minimal-blog`,
+            title: `Amit Karnam Blog`,
           },
         ],
       },
