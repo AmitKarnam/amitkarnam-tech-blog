@@ -10,10 +10,10 @@ module.exports = {
     siteTitle: `Amit Karnam Blog`,
     siteTitleAlt: `Amit Karnam Blog - Gatsby Theme`,
     siteHeadline: `Amit Karnam Blog - Cloud , System design and tech!`,
-    siteUrl: `https://minimal-blog.lekoarts.de`,
+    siteUrl: `https://amitkarnam.tech/`,
     siteDescription: `One stop destination to share my learning on cloud , system design and much more intresting stuff in tech.`,
     siteLanguage: `en`,
-    siteImage: `/banner.jpg`,
+    siteImage: `/favicon.png`,
     author: `@AmitKarnam`,
   },
   plugins: [
@@ -69,12 +69,12 @@ module.exports = {
         display: `standalone`,
         icons: [
           {
-            src: `/android-chrome-192x192.png`,
+            src: `/favicon.png`,
             sizes: `192x192`,
             type: `image/png`,
           },
           {
-            src: `/android-chrome-512x512.png`,
+            src: `/favicon.png`,
             sizes: `512x512`,
             type: `image/png`,
           },
